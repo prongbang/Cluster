@@ -34,7 +34,10 @@ let package = Package(
                 "CHANGELOG.md",
                 "Cluster.podspec",
                 "LICENSE",
-                "README.md"
+                "README.md",
+                "build_xcframework.sh",
+                "zip.sh",
+                "checksum.sh"
             ],
             sources: ["Sources"]
         ),
